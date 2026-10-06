@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요, 권태열입니다.</h1>
 
 <p align="center">
-  <a href="mailto:gamejop123@gmail.com">gamejop123@gmail.com</a>
+  <a href="mailto:gamejop123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
