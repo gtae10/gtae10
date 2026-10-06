@@ -1,8 +1,3 @@
-# 안녕하세요, 권태열입니다 👋
-
-순천향대학교 컴퓨터공학과 3학년 · 백엔드 개발자를 목표로 공부하고 있습니다.
-멋쟁이사자처럼 14기 활동 중이며, 직접 만들어 보면서 배우는 걸 좋아합니다.
-
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
