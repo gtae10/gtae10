@@ -1,6 +1,7 @@
-<h1 align="center">안녕하세요, 권태열입니다 👋</h1>
+<h1 align="center">안녕하세요, 권태열입니다.</h1>
 
 <p align="center">
+  <a href="mailto:gamejop123@gmail.com">gamejop123@gmail.com</a>
 </p>
 
 <p align="center">
@@ -13,12 +14,12 @@
 
 ---
 
-##  About
+## About
 
--  순천향대학교 컴퓨터공학과 3학년 (2028.02 졸업 예정)
--  멋쟁이사자처럼 14기 · 중앙 해커톤, 팀 프로젝트 진행
--  데이터를 직접 검증하는 걸 좋아해요 (walk-forward 검증으로 "통계적 우위 없음"까지 정직하게 확인한 경험)
--  LG Aimers 9기 — KBO 투구 제구 성공 확률 예측 (LightGBM, Brier Skill Score)
+- 순천향대학교 컴퓨터공학과 3학년 (2028.02 졸업 예정)
+- 멋쟁이사자처럼 14기 · 중앙 해커톤, 팀 프로젝트 진행
+- 데이터를 직접 검증하는 걸 좋아해요 (walk-forward 검증으로 "통계적 우위 없음"까지 정직하게 확인한 경험)
+- LG Aimers 9기 — KBO 투구 제구 성공 확률 예측 (LightGBM, Brier Skill Score)
 
 ---
 
