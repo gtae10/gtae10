@@ -15,17 +15,16 @@
 
 ---
 
-## 🔭 About
+##  About
 
-- 🎓 순천향대학교 컴퓨터공학과 3학년 (2028.02 졸업 예정)
-- 🦁 멋쟁이사자처럼 14기 · 중앙 해커톤, 팀 프로젝트 진행
-- 🎯 한국 IT 업계 **백엔드 개발자**가 목표 — Java/Spring Boot, Python/Django 중심
-- 📈 데이터를 직접 검증하는 걸 좋아해요 (walk-forward 검증으로 "통계적 우위 없음"까지 정직하게 확인한 경험)
-- 🏆 LG Aimers 9기 — KBO 투구 제구 성공 확률 예측 (LightGBM, Brier Skill Score)
+-  순천향대학교 컴퓨터공학과 3학년 (2028.02 졸업 예정)
+-  멋쟁이사자처럼 14기 · 중앙 해커톤, 팀 프로젝트 진행
+-  데이터를 직접 검증하는 걸 좋아해요 (walk-forward 검증으로 "통계적 우위 없음"까지 정직하게 확인한 경험)
+-  LG Aimers 9기 — KBO 투구 제구 성공 확률 예측 (LightGBM, Brier Skill Score)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | 프로젝트 | 무엇을 만들었나 | 스택 |
 | --- | --- | --- |
@@ -39,7 +38,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**
 <br/>
@@ -73,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gtae10&show_icons=true&hide_border=true&count_private=true"/>
