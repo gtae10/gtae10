@@ -1,8 +1,6 @@
 <h1 align="center">안녕하세요, 권태열입니다 👋</h1>
 
 <p align="center">
-  <b>Backend Developer 지망</b> · 순천향대학교 컴퓨터공학과 · 멋쟁이사자처럼 14기<br/>
-  직접 만들어 보면서 배우고, 동작하는 서비스를 끝까지 완성하는 걸 좋아합니다.
 </p>
 
 <p align="center">
